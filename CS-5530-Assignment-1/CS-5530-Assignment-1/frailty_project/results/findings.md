@@ -13,4 +13,8 @@
 | AgeGroup_<30   |  0.5   |    0.5   |  0.527046  |
 | AgeGroup_30-45 |  0.3   |    0     |  0.483046  |
 | AgeGroup_46-60 |  0.2   |    0     |  0.421637  |
-| AgeGroup_>60   |  0     |    0     |  0         |The correlation between **Grip_kg** and **Frailty_binary** is: **-0.476**
+| AgeGroup_>60   |  0     |    0     |  0         |
+
+## Correlation: Strength vs Frailty
+
+The correlation between **Grip (kg)** and **Frailty_binary** is: **-0.476**
