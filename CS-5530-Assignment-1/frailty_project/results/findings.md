@@ -1,7 +1,6 @@
 # Findings Report
 
 ## Summary Statistics (Numeric Columns)
-
 |                |   mean |   median |        std |
 |:---------------|-------:|---------:|-----------:|
 | Height (m)     |  1.741 |    1.735 |  0.0430633 |
